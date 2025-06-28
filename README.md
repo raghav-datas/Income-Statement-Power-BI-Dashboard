@@ -4,9 +4,9 @@
 ## ✅ Key Features
 📌 Three Major KPIs:
 
- -- Net Income
- -- Total Revenue
- -- Operating Income
+ - Net Income
+ - Total Revenue
+ - Operating Income
 - 📊 Interactive visuals
 - 📁 Structured income statement view
 - 🎨 Simple, clean, and professional design
