@@ -25,13 +25,13 @@ Used Power Query to:
 Remove unnecessary rows/columns
 Convert data types
 
-4. Dashboard Design
+### 4. Dashboard Design
 Added three KPI cards for Net Income, Total Revenue, and Operating Income
 
-5. Testing and Validation
+### 5. Testing and Validation
 Verified calculations using sample scenarios
 Ensured interactivity and responsiveness
 
-6. Final Touches
+### 6. Final Touches
 Applied a minimal, professional theme
 Added titles, labels, and tooltips for better readability
