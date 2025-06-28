@@ -39,8 +39,8 @@ Added titles, labels, and tooltips for better readability
 
 
 ## 📁 Files Included
-- IncomeStatementDashboard.pbix – Power BI dashboard file
-- SampleData.xlsx – The sample income statement dataset
+- Income Statement Dashboard.pbix – Power BI dashboard file
+- FinancialStatementFY23Q2.xlsx – The sample income statement dataset
 - README.md – Project description and instructions
 
 ## 🛠️ Tools Used
