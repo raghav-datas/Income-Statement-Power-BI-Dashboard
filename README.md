@@ -36,7 +36,8 @@ Ensured interactivity and responsiveness
 Applied a minimal, professional theme
 Added titles, labels, and tooltips for better readability
 
-
+## 📸 Dashboard Screenshots
+![Final Dashboard](https://github.com/raghav-datas/Income-Statement-Power-BI-Dashboard/blob/main/Income%20Statement%20Dashboard.png)
 
 ## 📁 Files Included
 - Income Statement Dashboard.pbix – Power BI dashboard file
