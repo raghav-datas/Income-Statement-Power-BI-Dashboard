@@ -35,3 +35,16 @@ Ensured interactivity and responsiveness
 ### 6. Final Touches
 Applied a minimal, professional theme
 Added titles, labels, and tooltips for better readability
+
+
+
+## 📁 Files Included
+- IncomeStatementDashboard.pbix – Power BI dashboard file
+- SampleData.xlsx – The sample income statement dataset
+- README.md – Project description and instructions
+
+## 🛠️ Tools Used
+- Power BI Desktop
+- Microsoft Excel
+- DAX (Data Analysis Expressions)
+- Power Query
